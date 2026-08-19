@@ -7,7 +7,7 @@ I build reliable AI systems that connect language models to real tools, data, wo
 </p>
 
 <p align="center" dir="rtl">
-سیستم‌های هوش مصنوعی کاربردی، ایجنت‌های قابل‌اعتماد و اتوماسیون‌های هوشمند برای مسائل واقعی می‌سازم.
+برای مسائل واقعی، سیستم‌های هوش مصنوعی کاربردی، ایجنت‌های قابل‌اعتماد و اتوماسیون‌های هوشمند می‌سازم.
 </p>
 
 ## About me
